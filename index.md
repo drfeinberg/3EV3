@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 <H1>PNB-3EV3 - Evolutionary Psychology Lab</H1>
 <H2>Winter 2021</H2>
 <H2>Course Links</H2>
